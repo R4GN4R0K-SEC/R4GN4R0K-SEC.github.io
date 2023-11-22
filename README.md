@@ -10,6 +10,4 @@
 <h1 align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</h1>
 <h1 align="center">LINKS TO MY PAGES</h1>
   <div align="center">
-    
-  [Skynet-BotNet](https://r4gn4r0k-sec.github.io/Skynet-Botnet)
-  
+  <h2><a href="https://r4gn4r0k-sec.github.io/Skynet-Botnet">SKYNET BOTNET</a></h2>
