@@ -1,13 +1,15 @@
-<div align="center">
+<h1 align="center">WELCOME TO R4GN4R0K-SEC | CYBERSEC & HACKS</h1>
+<h1 align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</h1>
+<p align="center">
+<a href="#"><img alt="R4GN4R0K BANNER" src="https://i.imgur.com/J7wuq7Q.png=for-the-badge"></a>
+<a href="#"><img alt="KALI-BLOOD" src="https://i.imgur.com/SJ2ZQPD.png?style=for-the-badge"></a>
+<a align="center"><img src="https://i.imgur.com/yFNB0Jr.png" width="640" height="480" alt="R4GN4R0K LOGO"></a>
+<h1 align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</h1>
+<p align="center">
+<a href="#"><img alt="INTRO" src="https://i.imgur.com/Wp8JlAe.png=for-the-badge"></a>
+<h1 align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</h1>
+<h1 align="center">LINKS TO MY PAGES</h1>
+  <div align="center">
+    
+  [Skynet-BotNet](https://r4gn4r0k-sec.github.io/Skynet-Botnet)
   
-  # WELCOME TO R4GN4R0K-SEC | CYBERSEC & HACKS
-  # 🏴‍☠️💥💥💥💥💥🏴‍☠️<br />
-  # ![](https://i.imgur.com/J7wuq7Q.png)
-  # ![](https://repository-images.githubusercontent.com/721366327/1dd702f1-ee95-478b-9048-7380ecf9499d) 
-  # 🏴‍☠️💥💥💥💥💥🏴‍☠️ 
-  ## ![](https://i.imgur.com/Wp8JlAe.png) 
-  # 🏴‍☠️💥💥💥💥💥🏴‍☠️ 
-  # LINKS TO MY PAGES 
-  ## [Skynet-Botnet](https://r4gn4r0k-sec.github.io/Skynet-Botnet)
-  
-</div>
