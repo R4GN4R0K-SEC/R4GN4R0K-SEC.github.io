@@ -1,17 +1,9 @@
-# WELCOME TO R4GN4R0K-SEC | CYBERSEC & HACKS
-
-# 🏴‍☠️💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥🏴‍☠️
-
-# ![](https://i.imgur.com/J7wuq7Q.png)
-# ![](https://repository-images.githubusercontent.com/721366327/1dd702f1-ee95-478b-9048-7380ecf9499d)
- 
-# 🏴‍☠️💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥🏴‍☠️
-
-## ![](https://i.imgur.com/Wp8JlAe.png)
-
-# 🏴‍☠️💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥💥🏴‍☠️
-
-# LINKS TO MY PAGES
-
-## [Skynet-Botnet](https://r4gn4r0k-sec.github.io/Skynet-Botnet)
-
+# <p align="center">WELCOME TO R4GN4R0K-SEC | CYBERSEC & HACKS</p> 
+# <p align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</p>
+# <p align="center">![](https://i.imgur.com/J7wuq7Q.png)</p> 
+# <p align="center">![](https://repository-images.githubusercontent.com/721366327/1dd702f1-ee95-478b-9048-7380ecf9499d)</p> 
+# <p align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</p>
+## <p align="center">![](https://i.imgur.com/Wp8JlAe.png)</p>
+# <p align="center">🏴‍☠️💥💥💥💥💥🏴‍☠️</p>
+# <p align="center">LINKS TO MY PAGES</p>
+## <p align="center">[Skynet-Botnet](https://r4gn4r0k-sec.github.io/Skynet-Botnet)</p> 
