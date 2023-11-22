@@ -1,5 +1,3 @@
-<div align="center">
-  
 # WELCOME TO R4GN4R0K-SEC | CYBERSEC & HACKS
 # 🏴‍☠️💥💥💥💥💥🏴‍☠️<br />
 # ![](https://i.imgur.com/J7wuq7Q.png)
@@ -8,6 +6,4 @@
 ## ![](https://i.imgur.com/Wp8JlAe.png) 
 # 🏴‍☠️💥💥💥💥💥🏴‍☠️ 
 # LINKS TO MY PAGES 
-## [Skynet-Botnet](https://r4gn4r0k-sec.github.io/Skynet-Botnet) 
-
-</div>
+## [Skynet-Botnet](https://r4gn4r0k-sec.github.io/Skynet-Botnet)
